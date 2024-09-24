@@ -49,12 +49,15 @@
 
 - [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164)，24.9.24-24.10.22
 
-
 - [字节跳动-青训营](https://youthcamp.bytedance.com/)
 
 - [昇思学习赛](https://mp.weixin.qq.com/s/v8rrfPiM9rfS9g7Nb-0-pQ)
 
 - [飞桨 x 文心大模型 x Founder Park 联合发起 AGI Hackathon](https://www.oschina.net/event/2331412)
+
+- [PolarDB数据库创新设计赛（天池杯）](https://tianchi.aliyun.com/competition/entrance/532261/information) - 2024/08/21-2024/10/07
+
+- [第四届 OceanBase 数据库大赛](https://open.oceanbase.com/competition) - 2024/07/18-2024/10/18
 
 #### 安全
 
